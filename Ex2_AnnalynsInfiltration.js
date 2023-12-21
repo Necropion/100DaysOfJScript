@@ -20,7 +20,7 @@
 // Now help Annalyn free her best friend!
 
 /**
- * The fast attack is available when the knight is sleeping
+ * The fast attack is available when the knight is sleepin
  *
  * @param {boolean} knightIsAwake
  *
